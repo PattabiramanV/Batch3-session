@@ -8,9 +8,10 @@
 body {
     background-color: #f4f7f6;
     display: flex;
-    justify-content: center;
     align-items: center;
     height: 100vh;
+    justify-content: center;
+   
 }
 
 .signup-container {
